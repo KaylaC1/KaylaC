@@ -62,3 +62,4 @@ As for the links that direct to sites or media pages that no longer work or exis
 
 This DH project was a huge portion of my grant coming together. It provided so many cool resources I used to frame what I was thinking of for my grant idea. This website is one of very few websites that really dives in womens issues, specifically birth, of the 19th century. Because the content was so tailored to my grant project idea I have really grown to the see the beauty of the site. They were able to use an authors work (The Awakening) to spawn an entire website curated of topics that were so controversial and hardly talked about during that time. Through this website I have been able to pick out pieces that I wish to include in my own project. I believe these pieces will allow my project to be stronger and make more impact. 
 
+![screenshot of birth control tab](https://kaylac1.github.io/KaylaC/images/birth.png)
