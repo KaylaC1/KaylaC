@@ -57,3 +57,8 @@ If you go on many sites now a days they have some kind of factor that makes it c
 
 
 As for the links that direct to sites or media pages that no longer work or exist, this is not the fault of the site or the people that made it. Many of those sites ceased to exist in the 20 years since the launch of the site. I recommend that the editors of the site comb through the links and take out ones that no longer exist. If they choose to replace the links with material that was similar, this could also be a great opportunity to introduce new content to the page. 
+
+## Project Impact
+
+This DH project was a huge portion of my grant coming together. It provided so many cool resources I used to frame what I was thinking of for my grant idea. This website is one of very few websites that really dives in womens issues, specifically birth, of the 19th century. Because the content was so tailored to my grant project idea I have really grown to the see the beauty of the site. They were able to use an authors work (The Awakening) to spawn an entire website curated of topics that were so controversial and hardly talked about during that time. Through this website I have been able to pick out pieces that I wish to include in my own project. I believe these pieces will allow my project to be stronger and make more impact. 
+
