@@ -31,7 +31,7 @@ The related figures section is a great supplement to everything else the website
 
 ![screenshot of home page](https://kaylac1.github.io/KaylaC/images/HomeScreen.png)
 
-##Humanistic Claims and Evidence
+## Humanistic Claims and Evidence
 
 While looking at the fields in the humanities that this project relates to, history aligns the most with the DH project. This website completely uncovers the historical evolution of items like birth control in the 19th century in a whole new way using Kate Chopin novels as a jumping point. It is completely dedicated to the historical view point of the 19th century. 
 
@@ -40,4 +40,9 @@ The Kate Chopin website does a great job at explaining how the historical contex
 
 
 Many times when we think of data we think of numbers and graphs, but I believe the Kate Chopin website takes a twist on data and uses pictures from the 19th century to their advantage. Every single tab includes some kind of graphic that correlates with the topic. They include diagrams of medical equipment, pictures of Kate and the area she grew up in, 19th century posters but no graphs. On topic of locations they were known to include a map of sorts. No tab included data that was compromised of numbers. 
+
+
+## Technology Used/Developed
+
+As the website was created in 1999 and updated around 2009 the technology aspect of website does lack. For that time, this website was so ahead of its time in the incorporation of the details of the site as the tabs and links within the website. I believe that reading online makes intaking information easier then reading through a book and the use of pictures and some videos help break up the text and allow the reader to understand the information in a new way. The website is incredibly easy to navigate between tabs. This is cool because having subtabs can cause many pages to seem overwhelming, but because the structure is so simple and panned out it makes it easy. Another important thing to note is that it’s also accessible to use and view on a smartphone. That was an issue with past pages that contained maps and elaborate graphs but this page was simple to navigate on a smaller screen. 
 
