@@ -30,3 +30,14 @@ The tab about womens issues is incredibly loaded with a wealth of topics the web
 The related figures section is a great supplement to everything else the website provides. They list 4 people that are also authors or philosophers of that time period like Chopin. These peoples work correlates with the work Chopin was creating at that time, both fiction and nonfiction. 
 
 ![screenshot of home page](https://kaylac1.github.io/KaylaC/images/HomeScreen.png)
+
+##Humanistic Claims and Evidence
+
+While looking at the fields in the humanities that this project relates to, history aligns the most with the DH project. This website completely uncovers the historical evolution of items like birth control in the 19th century in a whole new way using Kate Chopin novels as a jumping point. It is completely dedicated to the historical view point of the 19th century. 
+
+
+The Kate Chopin website does a great job at explaining how the historical context and significance plays a part in everything that they write on the site. On every tab they give multiple resources of ways that you can dive deeper into each topic through different lens of different people and different regions of the country and world. The information is so incredibly detailed and educational and makes intaking the information so much easier. 
+
+
+Many times when we think of data we think of numbers and graphs, but I believe the Kate Chopin website takes a twist on data and uses pictures from the 19th century to their advantage. Every single tab includes some kind of graphic that correlates with the topic. They include diagrams of medical equipment, pictures of Kate and the area she grew up in, 19th century posters but no graphs. On topic of locations they were known to include a map of sorts. No tab included data that was compromised of numbers. 
+
