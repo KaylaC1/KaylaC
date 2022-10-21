@@ -29,4 +29,4 @@ The tab about womens issues is incredibly loaded with a wealth of topics the web
 
 The related figures section is a great supplement to everything else the website provides. They list 4 people that are also authors or philosophers of that time period like Chopin. These peoples work correlates with the work Chopin was creating at that time, both fiction and nonfiction. 
 
-![screenshot of home page](https://kaylac1.github.io/KaylaC/images/Home.png)
+![screenshot of home page](https://kaylac1.github.io/KaylaC/images/HomeScreen.png)
