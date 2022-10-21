@@ -47,3 +47,13 @@ Many times when we think of data we think of numbers and graphs, but I believe t
 As the website was created in 1999 and updated around 2009 the technology aspect of website does lack. For that time, this website was so ahead of its time in the incorporation of the details of the site as the tabs and links within the website. I believe that reading online makes intaking information easier then reading through a book and the use of pictures and some videos help break up the text and allow the reader to understand the information in a new way. The website is incredibly easy to navigate between tabs. This is cool because having subtabs can cause many pages to seem overwhelming, but because the structure is so simple and panned out it makes it easy. Another important thing to note is that it’s also accessible to use and view on a smartphone. That was an issue with past pages that contained maps and elaborate graphs but this page was simple to navigate on a smaller screen. 
 
 ![screenshot of broken link](https://kaylac1.github.io/KaylaC/images/Broke.png)
+
+## Accessibility
+
+Many of the “issues” of this website isn’t accessibility or even usability of the website but rather how old it is. As I mentioned a little bit in the previous sections, the last time the website was updated was around 2009. The face of technology has grown light years since that time. This makes the current website they have incredibly simple to navigate, but lacks a certain interesting factor and many of the links do not work.
+
+
+If you go on many sites now a days they have some kind of factor that makes it cool to use their site, such as toggle buttons or intricate visual points. The Kate Chopin site has a explicitly simple interface. If they wish to revisit the site, there are so many ways they can spice it up. One way I can see them doing this is reintroducing the visual components of the site.
+
+
+As for the links that direct to sites or media pages that no longer work or exist, this is not the fault of the site or the people that made it. Many of those sites ceased to exist in the 20 years since the launch of the site. I recommend that the editors of the site comb through the links and take out ones that no longer exist. If they choose to replace the links with material that was similar, this could also be a great opportunity to introduce new content to the page. 
