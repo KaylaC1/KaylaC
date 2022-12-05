@@ -29,3 +29,7 @@ An assignment that I particularly enjoyed was doing the tweets .Although this as
 One assignment that I found difficult was the Canvas assignment. I found it hard to answer the questions because of the wording. I aslo felt that at the stage of my writing I didn’t feel confident in the direcion I was going so it made it hard to answer questions such as “High-Level Concept”. And also problems it would solve as I viewed my work as just something I wanted to present.
 
 ![screenshot of canvas page](https://kaylac1.github.io/KaylaC/images/Canvas.png)
+
+## Growth In Digital Humanities 
+
+As a writer I definitely feel that I have grown. Like many subjects, I feel that you never completely stop learning or growing. In the area of writing, I have learned to be more aware of my sentence structure and also being concise. Before this class I struggled with being able to write my thoughts in a clear and concise manner that was appropriate for the audience. As a student that foresees myself using and continuing to lean into Digital Humanities my knowledge of the field has grown exponentially. I have learned how I can use this field to my advantage and allow it to elevate my current studies, not only here at CNU but beyond. I have enjoyed this class immensely and I hope I have the oppurtunity to take more classes such as this in the future.
