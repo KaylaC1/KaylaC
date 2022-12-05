@@ -27,3 +27,5 @@ An assignment that I particularly enjoyed was doing the tweets .Although this as
 
 
 One assignment that I found difficult was the Canvas assignment. I found it hard to answer the questions because of the wording. I aslo felt that at the stage of my writing I didn’t feel confident in the direcion I was going so it made it hard to answer questions such as “High-Level Concept”. And also problems it would solve as I viewed my work as just something I wanted to present.
+
+![screenshot of canvas page](https://kaylac1.github.io/KaylaC/images/Canvas.png)
