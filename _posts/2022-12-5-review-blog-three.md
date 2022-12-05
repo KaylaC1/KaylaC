@@ -19,3 +19,11 @@ One reading that truly helped me understand what Digital Humanities is and how i
 
 
 One reading I found possibly worth skipping were the tutorials that the CNU library typically publicizes to CNU students. I felt that  the tutorials didn’t provide me with much help in moving forward in the class.
+
+
+## Assignments
+
+An assignment that I particularly enjoyed was doing the tweets .Although this assignment was incredibly easy to do and I found myself done with them in under 10 minutes they proved to have so many benefits. For one, I was able to test my knowledge of the reading. It allowed me to summarize my thoughts and takeaways on the weekly readings in under 150 characters. It is a great way to test summarizing. 
+
+
+One assignment that I found difficult was the Canvas assignment. I found it hard to answer the questions because of the wording. I aslo felt that at the stage of my writing I didn’t feel confident in the direcion I was going so it made it hard to answer questions such as “High-Level Concept”. And also problems it would solve as I viewed my work as just something I wanted to present.
